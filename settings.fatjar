@@ -1,0 +1,19 @@
+#Fat Jar Configuration File
+#Thu Jan 07 01:39:42 CET 2010
+onejar.license.required=true
+/home/mads/Programmering/Eclipse-workspace/Albumveljar/src/cdveljar/lib/vorbisspi1.0.2.jar=
+manifest.classpath=/home/mads/Programmering/Eclipse-workspace/Albumveljar/src/cdveljar/lib/*;.cdveljar
+manifest.removesigners=true
+/home/mads/Programmering/Eclipse-workspace/Albumveljar/src/cdveljar/lib/jspeex0.9.7.jar;=
+onejar.checkbox=false
+jarname=/home/mads/Programmering/albumveljar.jar
+manifest.mergeall=true
+manifest.mainclass=cdveljar.Main
+/home/mads/Programmering/Eclipse-workspace/Albumveljar/src/cdveljar/lib/commons-logging-api.jar;=
+/home/mads/Programmering/Eclipse-workspace/Albumveljar/src/cdveljar/lib/jogg-0.0.7.jar;=
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+/home/mads/Programmering/Eclipse-workspace/Albumveljar/src/cdveljar/lib/jorbis-0.0.15.jar;=
+includes=
